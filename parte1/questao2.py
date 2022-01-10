@@ -16,8 +16,8 @@ def pertence(n):
 
 
 
-print(pertence(6))
-print(pertence(21))
-print(pertence(13))
-print(pertence(7))
-print(pertence(0))
+print(pertence(6)) #Não percente 6
+print(pertence(21)) #Pertence 21
+print(pertence(13)) #Percente 13
+print(pertence(7)) #Não pertence 7
+print(pertence(0)) # Pertence 0

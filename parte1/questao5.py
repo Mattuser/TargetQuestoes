@@ -7,6 +7,7 @@ while contador < len(array):
     lista_final.append(lista)
 
 string_final = "".join(lista_final)
-print(string_final)
+
+print(string_final) #ahnitataB
 
 

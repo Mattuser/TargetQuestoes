@@ -28,8 +28,8 @@ def maior_valor_ocorrido():
     return maior_faturamento
 
 
-print(f'O menor valor ocorrido em um dia do mês foi: {menor_valor_ocorrido()}')
-print(f'O maior valor ocorrido em um dia do mês foi: {maior_valor_ocorrido()}')
+print(f'O menor valor ocorrido em um dia do mês foi: R${menor_valor_ocorrido()}') #Menor = R$0
+print(f'O maior valor ocorrido em um dia do mês foi: R${maior_valor_ocorrido()}') # Maior = R$48924.2448
 
 
 

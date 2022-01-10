@@ -38,3 +38,10 @@ for estado in faturamento_por_estado:
     percentual = (estado['valor'] / total) * 100
     print(f'O valor percentual do estado de {nome_estado} é {percentual}')
     
+
+
+# O valor percentual do estado de SP é 37.52883705748602
+# O valor percentual do estado de RJ é 20.29133034958536
+# O valor percentual do estado de MG é 16.170328120072806
+# O valor percentual do estado de ES é 15.028463627964616
+# O valor percentual do estado de OUTROS é 10.981040844891208
