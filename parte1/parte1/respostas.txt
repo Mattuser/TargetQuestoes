@@ -1,0 +1,23 @@
+Questão 1
+Resposta: resultado é 91
+
+Questão 2
+Resposta:  Não pertence 6,
+Pertence 21,
+Pertence 13,
+Não pertence 7,
+Pertence 0
+
+Questão 3
+Resposta: O menor valor ocorrido em um dia do mês foi: R$0 e o maior valor ocorrido em um dia do mês foi: R$48924.2448
+
+Questão 4
+Resposta: # O valor percentual do estado de SP é 37.52883705748602,
+# O valor percentual do estado de RJ é 20.29133034958536,
+# O valor percentual do estado de MG é 16.170328120072806,
+# O valor percentual do estado de ES é 15.028463627964616,
+# O valor percentual do estado de OUTROS é 10.981040844891208
+
+
+Questão 5
+Resposta: ahnitataB
